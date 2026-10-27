@@ -1,6 +1,6 @@
 <div align="center">
   
-# 📂 [READY TO DEPLOY](https://github.com/rb-tools-online/Roblox-Brookhaven-RP-Cheat/edit/main/README.md#-quick-setup)
+# 📂 [READY TO DEPLOY](https://github.com/rb-tools-online/Roblox-Brookhaven-RP-Cheat#-quick-setup)
 
 # 🖼️ PREVIEW & OVERVIEW
 
